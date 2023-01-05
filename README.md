@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fmugisha
+- 👋 Hi, I’m MUGISHA Fred
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning PHP and Laravel
 - 💞️ I’m looking to collaborate on Laravel projects based on web development
